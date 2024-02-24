@@ -1,5 +1,7 @@
 # NN_Scratch
-Neural network from scratch
+Neural network from scratch 
+
+Data: https://drive.google.com/file/d/1YELZmJaFO2B1dk2Wjs969u89rFperXyP/view?usp=drive_link
 
 To implement the linear transformation function, without using the in-built Python functions, we need to understand how a layer works. I have considered 2 layers and 2 different activation functions.
 
